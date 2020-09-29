@@ -1,3 +1,3 @@
-### Hi, I'm Chris
+### Hi, I'm Chris wave
 
-Currently @amzn.
+Currently, I do Cloud Security stuff @ Amazon.
