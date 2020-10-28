@@ -9,3 +9,8 @@ Currently, I'm working on Cloud Security @ [Amazon](https://www.aboutamazon.com/
 - Product Security Engineer @ [Datto](https://datto.com), and Software Engineer before that
 
 In my spare time, I am also involved in [Machines Never Sleep, LLC](https://mns.llc/), a cybersecurity research & development company I founded. You can usually find me writing code, yelling on the cesspool that is r/hacking, and retweeting SwiftOnSecurity cornposts.
+
+```
+@RebeccaMahany: W o w! An SSL certificate!
+@tweedge: Wow that makes me barf
+```
