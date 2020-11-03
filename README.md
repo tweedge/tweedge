@@ -11,6 +11,5 @@ Currently, I'm working on Cloud Security @ [Amazon](https://www.aboutamazon.com/
 In my spare time, I am also involved in [Machines Never Sleep, LLC](https://mns.llc/), a cybersecurity research & development company I founded. You can usually find me writing code, yelling on the cesspool that is r/hacking, and retweeting SwiftOnSecurity cornposts.
 
 ```
-@RebeccaMahany: W o w! An SSL certificate!
-@tweedge: Wow that makes me barf
+@RebeccaMahany: Golant is really the babe of my existence
 ```
