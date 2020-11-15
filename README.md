@@ -1,6 +1,6 @@
 ### Hi, I'm Chris (he/him) 👋
 
-I'm a security person in a software world. My focus is on bringing holistic and pragmatic security solutions to software companies ([bingo!](https://github.com/swagitda/infosec-buzzword-bingo)). I believe this is a traditional failing of InfoSec due to conflict between development organizations and security engineers. However, I believe this conflict is not due to divergent goals, rather that it's due to broken forms of interaction and operation that haven't matured in ways that are compatible to the ways development has. For all its breakneck pace, security hasn't evolved to keep up.
+I'm a security person in a software world. My focus is on bringing holistic and pragmatic security solutions to software companies ([bingo!](https://github.com/swagitda/infosec-buzzword-bingo)). I'm a firm believer in security visibility as well as shared security responsibility, and build processes, applications, and more to support those goals in the organizations I work with.
 
 Red tape is my mortal enemy - ironically, policy can be a dear friend.
 
