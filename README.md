@@ -1,6 +1,6 @@
 ### Hi, I'm Chris (he/him) 👋
 
-I'm a security person in a software world. My focus is on bringing holistic and pragmatic security solutions to software companies ([bingo!](https://github.com/swagitda/infosec-buzzword-bingo)).
+I'm a security person in a software world. My focus is on bringing holistic and pragmatic security solutions to software companies ([bingo!](https://github.com/swagitda/infosec-buzzword-bingo)), and I'm especially partial to risk-reducing solutions which improve development processes or developer experience. Convenient, guardrail-centric security > inconvenient, tarpit-centric security.
 
 Currently, I'm working on Cloud Security @ [Amazon](https://www.aboutamazon.com/our-company) as part of the Proactive Security department. My notable past roles include:
 - Security Engineer, Vulnerability Management @ [Luta Security](https://www.lutasecurity.com/) on the [Zoom](https://zoom.us/) contract
