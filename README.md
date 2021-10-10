@@ -6,8 +6,4 @@ Currently, I'm working on Cloud Security @ [Amazon](https://www.aboutamazon.com/
 - Security Engineer, Vulnerability Management @ [Luta Security](https://www.lutasecurity.com/) on the [Zoom](https://zoom.us/) contract
 - Product Security Engineer @ [Datto](https://datto.com), and Software Engineer before that
 
-In my spare time, I am also involved in [Machines Never Sleep, LLC](https://mns.llc/), a cybersecurity research & development company I founded. You can usually find me writing code, yelling on the cesspool that is r/hacking, and retweeting SwiftOnSecurity cornposts.
-
-```
-@RebeccaMahany: Golant is really the babe of my existence
-```
+In my spare time, I am also a moderator of [r/cybersecurity](https://reddit.com/r/cybersecurity), the largest discussion-centric professional cybersecurity subreddit. I am also occasionally involved in private disclosures both solo and through my research company, [Machines Never Sleep, LLC](https://mns.llc/). If you'd like to chat or connect, you can find me on [Reddit](https://reddit.com/user/tweedge), [Twitter](https://twitter.com/_tweedge), or elsewhere.
