@@ -1,5 +1,7 @@
 ### Hi, I'm Chris (he/him) 👋
 
+(note: not Chris Kubecka, I'm Chris Partridge, the profile is just to illustrate an identify verification problem on GitHub and will be back to normal shortly)
+
 I'm a security person in a software world. My focus is on bringing holistic and pragmatic security solutions to software companies ([bingo!](https://github.com/swagitda/infosec-buzzword-bingo)), and I'm especially partial to risk-reducing solutions which improve development processes or developer experience. I build guardrails, not tarpits.
 
 Currently, I'm working on Cloud Security @ [Amazon](https://www.aboutamazon.com/our-company) as part of the Proactive Security department. My notable past roles include:
