@@ -6,4 +6,4 @@ Currently, I'm working on Cloud Security @ [Amazon](https://www.aboutamazon.com/
 - Security Engineer, Vulnerability Management @ [Luta Security](https://www.lutasecurity.com/) on the [Zoom](https://zoom.us/) contract
 - Product Security Engineer @ [Datto](https://datto.com), and Software Engineer before that
 
-In my spare time, I am also a janitor for [r/cybersecurity](https://reddit.com/r/cybersecurity), the largest discussion-centric professional cybersecurity subreddit. I am also occasionally involved in private disclosures both solo and through my research company, [Machines Never Sleep, LLC](https://mns.llc/). If you'd like to chat or connect, you can find my social media and ways to message me on [Keybase](https://keybase.io/tweedge).
+In my spare time, I am also a janitor for [r/cybersecurity](https://reddit.com/r/cybersecurity), the largest discussion-centric professional cybersecurity subreddit. If you'd like to chat or connect, you can find my social media and ways to message me on [Keybase](https://keybase.io/tweedge).
