@@ -1,4 +1,4 @@
-### Hi, I'm Chris (he/him) 👋
+### Hi, I'm Chris 👋
 
 I'm a security person in a software world. My focus is on bringing holistic and pragmatic security solutions to software companies ([bingo!](https://github.com/swagitda/infosec-buzzword-bingo)), and I'm especially partial to risk-reducing solutions which improve development processes or developer experience. I build guardrails, not tarpits.
 
