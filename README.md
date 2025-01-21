@@ -5,7 +5,7 @@ I'm a security person in a software world. My focus is on bringing holistic and 
 Currently, I'm a Cloud Security manager @ [Amazon](https://www.aboutamazon.com/our-company) as part of the Application Security organization, helming a multifaceted CloudSec function that focuses on promoting long-term sustainable architecture. My team is not the "run ScoutSuite and call it a day" type, thankfully. :)
 
 My notable past roles include:
-- Sr. Security Engineer, Amazon
+- Sr. Security Engineer, Amazon (completing an L4-through-L6 IC journey)
 - Security Engineer, Vulnerability Management @ [Luta Security](https://www.lutasecurity.com/) on the [Zoom](https://zoom.us/) contract
 - Product Security Engineer @ [Datto](https://datto.com), and Software Engineer before that
 
