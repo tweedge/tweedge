@@ -1,8 +1,11 @@
 ### Hi, I'm Chris 👋
 
-I'm a security person in a software world. My focus is on bringing holistic and pragmatic security solutions to software companies, and I'm especially partial to risk-reducing solutions which improve development processes or developer experience ([bingo!](https://github.com/swagitda/infosec-buzzword-bingo)). I build guardrails, not tarpits.
+I'm a security person in a software world. My focus is on bringing holistic and pragmatic security solutions to software companies, and I'm especially partial to risk-reducing solutions which improve development processes or developer experience ([bingo!](https://github.com/swagitda/infosec-buzzword-bingo)).
 
-Currently, I'm a Senior Security Engineer & Security Engineer Manager @ [Amazon](https://www.aboutamazon.com/our-company) as part of the Security Foundations organization, working on cloud security and related projects. My notable past roles include:
+Currently, I'm a Cloud Security manager @ [Amazon](https://www.aboutamazon.com/our-company) as part of the Application Security organization, helming a multifaceted CloudSec function that focuses on promoting long-term sustainable architecture. My team is not the "run ScoutSuite and call it a day" type, thankfully. :)
+
+My notable past roles include:
+- Sr. Security Engineer, Amazon
 - Security Engineer, Vulnerability Management @ [Luta Security](https://www.lutasecurity.com/) on the [Zoom](https://zoom.us/) contract
 - Product Security Engineer @ [Datto](https://datto.com), and Software Engineer before that
 
